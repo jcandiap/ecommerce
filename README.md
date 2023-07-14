@@ -33,6 +33,10 @@ $ pnpm install
 ```
 
 ## Running the app
+```bash
+# run container from local database
+$ docker-compose up -d
+```
 
 ```bash
 # development
